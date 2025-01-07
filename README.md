@@ -1,1 +1,1 @@
-# mox-favorites-cu
+# Moccasin Favorite's List
