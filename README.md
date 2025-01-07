@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Moccasin Favorite's List
 =======
 # Moccasin Project
@@ -20,4 +19,3 @@ mox test
 ```
 
 _For documentation, please run `mox --help` or visit [the Moccasin documentation](https://cyfrin.github.io/moccasin)_
->>>>>>> a963884 (Added files)
